@@ -1,0 +1,13 @@
+date,party,projected_vote_high,projected_vote_low,projected_vote_mean,election_day
+2020-10-29,democratic,0.571,0.514,0.543,FALSE
+2020-10-29,republican,0.486,0.429,0.457,FALSE
+2020-10-30,democratic,0.57,0.516,0.543,FALSE
+2020-10-30,republican,0.484,0.43,0.457,FALSE
+2020-10-31,democratic,0.572,0.517,0.542,FALSE
+2020-10-31,republican,0.483,0.428,0.458,FALSE
+2020-11-01,democratic,0.569,0.518,0.542,FALSE
+2020-11-01,republican,0.482,0.431,0.458,FALSE
+2020-11-02,democratic,0.569,0.516,0.542,FALSE
+2020-11-02,republican,0.484,0.431,0.458,FALSE
+2020-11-03,democratic,0.572,0.515,0.542,TRUE
+2020-11-03,republican,0.485,0.428,0.458,TRUE
