@@ -1,0 +1,52 @@
+﻿State,State_abb,ECV,rep_prob,dem_prob
+Alabama,AL,9,0.9865,0.0135
+Alaska,AK,3,0.865,0.135
+Arizona,AZ,11,0.3125,0.6875
+Arkansas,AR,6,0.9395,0.0605
+California,CA,55,0.0015,0.9985
+Colorado,CO,9,0.0145,0.9855
+Connecticut,CT,7,0.078,0.922
+Delaware,DE,3,0.1435,0.8565
+District of Columbia,DC,3,0.009,0.991
+Florida,FL,29,0.2,0.8
+Georgia,GA,16,0.582,0.418
+Hawaii,HI,4,0.015,0.985
+Idaho,ID,4,0.964,0.036
+Illinois,IL,20,0.1615,0.8385
+Indiana,IN,11,0.9475,0.0525
+Iowa,IA,6,0.7305,0.2695
+Kansas,KS,6,0.9255,0.0745
+Kentucky,KY,8,0.997,0.003
+Louisiana,LA,8,0.967,0.033
+Maine,ME,4,0.189,0.811
+Maryland,MD,10,0.01,0.99
+Massachusetts,MA,11,0.0075,0.9925
+Michigan,MI,16,0.008,0.992
+Minnesota,MN,10,0.0995,0.9005
+Mississippi,MS,6,0.9445,0.0555
+Missouri,MO,10,0.968,0.032
+Montana,MT,3,0.9225,0.0775
+Nebraska,NE,5,0.7895,0.2105
+Nevada,NV,6,0.486,0.514
+New Hampshire,NH,4,0.057,0.943
+New Jersey,NJ,14,0.025,0.975
+New Mexico,NM,5,0.1,0.9
+New York,NY,29,0.0055,0.9945
+North Carolina,NC,15,0.361,0.639
+North Dakota,ND,3,0.9835,0.0165
+Ohio,OH,18,0.6015,0.3985
+Oklahoma,OK,7,0.9725,0.0275
+Oregon,OR,7,0.087,0.913
+Pennsylvania,PA,20,0.0675,0.9325
+Rhode Island,RI,4,0.127,0.873
+South Carolina,SC,9,0.9245,0.0755
+South Dakota,SD,3,0.9105,0.0895
+Tennessee,TN,11,0.946,0.054
+Texas,TX,38,0.6255,0.3745
+Utah,UT,6,0.9215,0.0785
+Vermont,VT,3,0.019,0.981
+Virginia,VA,13,0.1105,0.8895
+Washington,WA,12,0.0305,0.9695
+West Virginia,WV,5,0.989,0.011
+Wisconsin,WI,10,0.0605,0.9395
+Wyoming,WY,3,0.9885,0.0115
