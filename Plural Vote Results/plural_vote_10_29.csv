@@ -1,0 +1,52 @@
+﻿state,trump_est,biden_est,state_abb,ecv
+Alabama,59.7,37,AL,9
+Alaska,55.2,43.2,AK,3
+Arizona,47.4,47.1,AZ,11
+Arkansas,59.7,37.8,AR,6
+California,30.8,62.8,CA,55
+Colorado,46.1,53.1,CO,9
+Connecticut,39.8,59.3,CT,7
+Delaware,36.6,56.7,DE,3
+District of Columbia,7,90.9,DC,3
+Florida,46.7,47.8,FL,29
+Georgia,48.2,48.6,GA,16
+Hawaii,29.4,64.2,HI,4
+Idaho,63.9,34.1,ID,4
+Illinois,39.2,58.4,IL,20
+Indiana,55.1,41.8,IN,11
+Iowa,51.3,45.5,IA,6
+Kansas,54.5,41.3,KS,6
+Kentucky,61.5,36.3,KY,8
+Louisiana,54.9,39.2,LA,8
+Maine,42.2,51.7,ME,4
+Maryland,30.8,61.6,MD,10
+Massachusetts,30.7,63.1,MA,11
+Michigan,44,49.4,MI,16
+Minnesota,44.1,47.6,MN,10
+Mississippi,53.3,43.7,MS,6
+Missouri,55.2,42.7,MO,10
+Montana,53.1,42.3,MT,3
+Nebraska,60.8,37.4,NE,5
+Nevada,43.8,49.9,NV,6
+New Hampshire,44.8,49,NH,4
+New Jersey,36.4,56.7,NJ,14
+New Mexico,40.5,53.7,NM,5
+New York,32.9,63.3,NY,29
+North Carolina,47.3,48.5,NC,15
+North Dakota,62.6,34.1,ND,3
+Ohio,51.1,45.8,OH,18
+Oklahoma,65,34.5,OK,7
+Oregon,40.6,56.7,OR,7
+Pennsylvania,46.9,48.8,PA,20
+Rhode Island,40.7,58.3,RI,4
+South Carolina,54.5,41.8,SC,9
+South Dakota,62.3,35.7,SD,3
+Tennessee,60.2,37.5,TN,11
+Texas,48.1,44.5,TX,38
+Utah,57,36.5,UT,6
+Vermont,35.1,63.4,VT,3
+Virginia,44,50.8,VA,13
+Washington,37.1,56,WA,12
+West Virginia,64,32.8,WV,5
+Wisconsin,47.2,48.9,WI,10
+Wyoming,64.9,33.7,WY,3
