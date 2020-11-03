@@ -2,7 +2,7 @@
 Alabama,AL,9,39.6,59.6
 Alaska,AK,3,44.5,52.9
 Arizona,AZ,11,50.7,48.1
-Arkansas,AR,6,60.5,37.8
+Arkansas,AR,6,37.8,60.5
 California,CA,55,64.1,34.1
 Colorado,CO,9,54.5,42.8
 Connecticut,CT,7,61.6,37.5
@@ -12,7 +12,7 @@ Florida,FL,29,50.9,48.4
 Georgia,GA,16,50.1,49.2
 Hawaii,HI,4,67.5,30.9
 Idaho,ID,4,37.5,59.5
-Illinois,IL,20,40.4,58.3
+Illinois,IL,20,58.3,40.4
 Indiana,IN,11,44,54.8
 Iowa,IA,6,48.5,50
 Kansas,KS,6,42.5,55.7
@@ -36,7 +36,7 @@ North Carolina,NC,15,50.5,48.8
 North Dakota,ND,3,37.9,59.6
 Ohio,OH,18,49.2,49.8
 Oklahoma,OK,7,36.9,62.1
-Oregon,OR,7,39.3,58.7
+Oregon,OR,7,58.7,39.3
 Pennsylvania,PA,20,52,47.3
 Rhode Island,RI,4,62.9,35.7
 South Carolina,SC,9,45.9,53.4
